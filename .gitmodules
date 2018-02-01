@@ -10,3 +10,7 @@
 	path = .vim/pack/native/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
 	branch = master
+[submodule ".vim/pack/native/start/molokai"]
+	path = .vim/pack/native/start/molokai
+	url = https://github.com/tomasr/molokai.git
+	branch = master
