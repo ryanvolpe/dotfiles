@@ -6,3 +6,7 @@
 	path = .vim/pack/native/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
 	branch = master
+[submodule ".vim/pack/native/start/syntastic"]
+	path = .vim/pack/native/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+	branch = master
