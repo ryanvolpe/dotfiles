@@ -2,3 +2,7 @@
 	path = .vim/pack/native/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
 	branch = master
+[submodule ".vim/pack/native/start/vim-airline-themes"]
+	path = .vim/pack/native/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+	branch = master
