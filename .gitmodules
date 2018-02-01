@@ -1,0 +1,4 @@
+[submodule ".vim/pack/native/start/vim-airline"]
+	path = .vim/pack/native/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+	branch = master
